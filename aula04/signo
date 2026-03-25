@@ -1,0 +1,12 @@
+dia = int(input( "Digite o dia do seu nascimento: "))
+mes = input ( "Digite o mes do seu nascimento: ")
+
+#janeiro
+elif (mes == "marco" or mes == "3")
+    signo = "ÁRIES"
+    print 
+
+
+
+
+
